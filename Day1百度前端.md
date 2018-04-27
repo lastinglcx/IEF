@@ -1,4 +1,4 @@
-# 百度前端技术学院欢迎你
+# day1
 ## 自己的水平
 1. 慕课网上**简单**的CSS和HTML代码编写
 2. Dreamweaver写过一两个页面
@@ -21,7 +21,7 @@
 ***
 2.注册opencode和github账户
 ### 知识点
-#### JS
+*#### JS
 **弹出窗口代码块**：
 code 
 document.getElementById("btn").onclick = function () 
