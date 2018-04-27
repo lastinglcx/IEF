@@ -21,8 +21,8 @@
 ***
 2.注册opencode和github账户
 ### 知识点
-* JS
-**弹出窗口代码块**：
-code document.getElementById("btn").onclick = function () 
-{  alert("...");
-		} code
+* ## JS
+弹出窗口代码块：
+	document.getElementById("btn").onclick = function () 
+	{  alert("...");
+	} 
