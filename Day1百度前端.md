@@ -38,8 +38,10 @@
 	
 	**html：（表示内容和语义）**
 		标记语言，界面会按html渲染出效果呈现给用户，但是都比较简洁不够美观；
+
 	**css：（规定样式）**
 		用来写自定义或规定样式的代码文件；可以根据需要和美观写相应的css代码；浏览器根据css代码画出对应的样式；
+	
 	**Html5:**
 		通行标准，加了一些属性和标签，我的理解是加了更多封装好的功能可以直接调用；
   
@@ -70,7 +72,7 @@
 
 	重视安全稳定和速度的企业和机构喜欢 J2EE
 
-	**ASP.net:**微软构架，通常会搭配 Windows Server 操作系统，SQL Server 数据库，IIS 做 Web Server；
+	**ASP.net**：微软构架，通常会搭配 Windows Server 操作系统，SQL Server 数据库，IIS 做 Web Server；
 	想省事的网站喜欢 ASP.NET
 
 	**MEAN架构**（比较新的架构），MongoDB做数据库，Express做 Web Framework，Angular 做前端的 JavaScript 框架，Node.js 用于编写 Web Server。神奇之处在于这几个东西的语言都是 JavaScript （MongoDB的实现不是，但与外界沟通用的语言是）。
